@@ -49,12 +49,20 @@ background:#7f8c8d;
 .tab2{
 background:#7f8c8d;
 }
-.mid h2{
-	margin-left:550px;
+.mainpic h2{
+	text-align:center;
 }
 .mainpic{
-	margin-left:400px;
+	margin:auto;
+	width:100%;
+	
 }
+.mainpic img{
+	margin-left:400px;
+	height:350px;
+	width:550px;
+}
+
 .foot_left{
 	float:left;
 	width:50%;
@@ -68,7 +76,4 @@ background:#7f8c8d;
 	margin-left:150px;
 	
 }
-.{}
-.{}
-.{}
-.{}
+

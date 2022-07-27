@@ -1,0 +1,64 @@
+.clear{
+	overflow:hidden;
+}
+.template a{
+	text-decoration:none;
+	color:#fff;
+}
+.logo{
+	float:left;
+	width:200px;
+	border-right: 5px solid #ccc;
+}
+.name{
+	float:left;
+	margin-left:400px;
+}
+.name h1{
+	color:#fff;
+	margin-top:50px;
+}
+
+.date{
+	float:right;
+	border-left: 5px solid #ccc;
+	width:250px;
+	height:150px;
+}
+.date p{
+	margin-top:50px;
+	margin-left:60px;
+	color:#fff;
+	font-size:20px;
+}
+.date input{
+	margin-left:60px;
+	width:165px;
+}
+.header-area{
+	background:#16a085;
+}
+.tab{width:100%;
+border:1px solid black;
+height:50px;
+}
+.tab1{
+border-right:1px solid black;
+background:#7f8c8d;
+}
+.tab2{
+background:#7f8c8d;
+}
+.foot td{
+	border:1px solid black;
+	height:100px;
+	width:25%;
+}
+.foot img{
+	
+	height:100%;
+	width:100%;
+}
+.foot h3{
+	text-align:center;
+}
